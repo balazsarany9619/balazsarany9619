@@ -3,6 +3,10 @@
 </a>
 
 <p align="center">
+  <img src="assets/now.svg" alt="a brain file beats re-explaining the project every session" width="720">
+</p>
+
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/272635595?v=4" width="96" height="96" alt="Bali">
   <br>
   <b>Made by Bali</b> · Copenhagen

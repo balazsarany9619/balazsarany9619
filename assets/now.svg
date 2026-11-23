@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="48" viewBox="0 0 880 48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <rect width="880" height="48" rx="10" fill="#0A1328" stroke="#1B2C4F"/>
+  <text x="18" y="31" fill="#5CC4FF" font-size="17">$</text>
+  <g font-size="16" fill="#E6EDF7">
+    <text x="40" y="31" opacity="1">a brain file beats re-explaining the project every session
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.3;0.333;0.967;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="40" y="31" opacity="0">one session per project, every one of them in view
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.366;0.633;0.666;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="40" y="31" opacity="0">ship it at the hackathon, polish it after
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.666;0.7;0.967;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect x="848" y="16" width="10" height="18" fill="#5CC4FF">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
